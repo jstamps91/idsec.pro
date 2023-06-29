@@ -1,19 +1,19 @@
-# Hypatia. A JavaScript open source LMS (eLearning platform) for MOOCs and online courses
+# idsec.pro. A learning and development platform for Identity and Access Management professionals.
 
-[![Build Status](https://travis-ci.org/gazpachu/hypatia?branch=master)](https://travis-ci.org/gazpachu/hypatia)
+[![Build Status](https://travis-ci.org/gazpachu/hypatia?branch=master)](https://travis-ci.org/jstamps91/idsec.pro)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 The project is currently in hibernation. Feel free to test it if you like but don't expect it to be production-ready.
 
-More info in https://joanmira.com/hypatia
+More info in https://idsec.pro
 
-Demo website with content: [https://hypatia-8d923.firebaseapp.com](https://hypatia-8d923.firebaseapp.com) (Sign up with a valid email is required to access some pages)
+Demo website with content: [https://idsecpro.firebaseapp.com](https://idsecpro.firebaseapp.com) (Sign up with a valid email is required to access some pages)
 
-![Home](https://firebasestorage.googleapis.com/v0/b/hypatia-8d923.appspot.com/o/screenshots%2Fhome.jpg?alt=media&token=1421d0c1-97ad-486c-b040-695e128a9e4a)
+![Home](https://firebasestorage.googleapis.com/v0/b/idsecpro.appspot.com/o/screenshots%2Fhome.jpg?alt=media&token=1421d0c1-97ad-486c-b040-695e128a9e4a)
 
-![Page](https://firebasestorage.googleapis.com/v0/b/hypatia-8d923.appspot.com/o/screenshots%2Fpage.jpg?alt=media&token=4aa59160-68d2-46b0-a2f0-35740ecde21d)
+![Page](https://firebasestorage.googleapis.com/v0/b/idsecpro.appspot.com/o/screenshots%2Fpage.jpg?alt=media&token=4aa59160-68d2-46b0-a2f0-35740ecde21d)
 
-![Admin](https://firebasestorage.googleapis.com/v0/b/hypatia-8d923.appspot.com/o/screenshots%2Fadmin.jpg?alt=media&token=6911a15b-d0ca-4bc0-8fd0-619d92c97706)
+![Admin](https://firebasestorage.googleapis.com/v0/b/idsecpro.appspot.com/o/screenshots%2Fadmin.jpg?alt=media&token=6911a15b-d0ca-4bc0-8fd0-619d92c97706)
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ npm install
 
 - Create a new project in your [Firebase account](http://firebase.google.com)
 
-- Enable at the Email/Password provider in the [Firebase authentication providers](https://console.firebase.google.com/project/bigmomo-647f1/authentication/providers)
+- Enable at the Email/Password provider in the [Firebase authentication providers](https://console.firebase.google.com/project/idsecpro/authentication/providers)
 
 - Create a file called `.env` in the root of your cloned repository and add the following code. Replace the values with the ones from the project you created in Firebase:
 
